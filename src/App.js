@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          BTFS Storage3 Test Project!
         </a>
       </header>
     </div>
